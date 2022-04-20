@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamedaymen2020
-- 👀 I’m interested in Java/C# - Angular/SpringBoot/.Net/Webassembly
+- 👀 I’m interested in Java/C# - Angular/SpringBoot/.Net/Blazor Webassembly
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdessamad7415@gmail.com
