@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mohamedaymen2020
+- 👋 Hi, I’m @MohamedAymen
 - 👀 I’m interested in Java/C# - Angular/SpringBoot/.Net/Blazor Webassembly
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me abdessamad7415@gmail.com
+- 🌱 I’m currently a Software Engineer 
+- 📫 How to reach me :  abdessamad7415@gmail.com
 
 <!---
 Mohamedaymen2020/Mohamedaymen2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
